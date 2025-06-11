@@ -250,11 +250,12 @@
 ---
 
 ## 🏢 시스템 아키텍처
-
+### 서비스 아키텍처
 <p align="center">
 <img src="https://github.com/user-attachments/assets/2364d4ae-dfbc-4a43-aa1e-a361ac3a4df0" width="900" />
 </p>
 
+### CI/CD 아키텍처
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7b5b690a-9617-4cbc-b0a3-e00c79909c90" width="900" />
 </p>
