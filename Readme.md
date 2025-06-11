@@ -258,7 +258,6 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7b5b690a-9617-4cbc-b0a3-e00c79909c90" width="900" />
 </p>
-
 ---
 
 ## 👨‍👩‍👧‍👦 팀원 정보
