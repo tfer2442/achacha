@@ -229,7 +229,7 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 🔧 기술 스택
 
 ### Frontend
 - **Mobile**: React Native 0.76.9, Expo 52.0.46
@@ -249,7 +249,7 @@
 - **Infra**: Docker Compose 3.8, Nginx 1.18.0, Jenkins 2.504.1
 ---
 
-## 🏗️ 시스템 아키텍처
+## 🏛️ 시스템 아키텍처
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/2364d4ae-dfbc-4a43-aa1e-a361ac3a4df0" width="700" />
