@@ -55,15 +55,15 @@
 </td>
 <td width="25%" align="center">
 <strong>홈 화면</strong><br/>
-<img src="https://github.com/user-attachments/assets/25f57233-a8da-4175-80a0-dce1867c0060" height="360"/><br/>
+<img src="https://github.com/user-attachments/assets/bc314e8a-c706-49c8-a7d7-4de2832a6232" height="360"/><br/>
 </td>
 <td width="25%" align="center">
 <strong>자동 등록</strong><br/>
-<img src="https://github.com/user-attachments/assets/05b9f4e9-0984-40bc-ae66-90cd791edf98" height="360"/><br/>
+<img src="https://github.com/user-attachments/assets/03fa69a4-c906-44b1-b467-1c8424640ae3" height="360"/><br/>
 </td>
 <td width="25%" align="center">
 <strong>통합 관리</strong><br/>
-<img src="https://github.com/user-attachments/assets/7a7da1ef-1a54-484f-b694-6f3305f01179" height="360"/><br/>
+<img src="https://github.com/user-attachments/assets/0d1ceddc-895b-49d9-936f-8572bafa8ed4" height="360"/><br/>
 </td>
 </tr>
 </table>
@@ -81,35 +81,35 @@
 <img src="https://github.com/user-attachments/assets/a471b369-4056-4839-b41d-fc8763aca4ab" height="360"/><br/>
 </td>
 <td width="25%" align="center">
-<strong>바코드 조회</strong><br/>
-<img src="https://github.com/user-attachments/assets/e66fcae8-f688-4f6a-b980-bae41101a577" height="360"/><br/>
+<strong>스와이프 제스처</strong><br/>
+<img src="https://github.com/user-attachments/assets/b6afb100-0e9d-4e31-8842-94c7fc8698f8" height="360"/><br/>
 </td>
 <td width="25%" align="center">
-<strong>스와이프 제스처</strong><br/>
+<strong>바코드 확대</strong><br/>
 <img src="https://github.com/user-attachments/assets/05d7f88b-7c6e-4d2b-9fc4-837e0ce57a80" height="360"/><br/>
 </td>
 </tr>
 </table>
 
-### 🎁 공유 & 나눔
+### 🎁 공유 & 내 주변 매장
 
 <table>
 <tr>
 <td width="25%" align="center">
 <strong>선물하기</strong><br/>
-<img src="https://github.com/user-attachments/assets/9a1ff6f9-eb65-42fc-bb01-c2dafbb4a6b8" height="360"/><br/>
+<img src="https://github.com/user-attachments/assets/85b66d25-7728-4f05-9adc-e9edd587b3ea" height="360"/><br/>
 </td>
 <td width="25%" align="center">
 <strong>선물 수신</strong><br/>
-<img src="https://github.com/user-attachments/assets/9001dc9d-9b67-4e44-8f29-d1a7e382cacb" height="360"/><br/>
-</td>
-<td width="25%" align="center">
-<strong>내 주변</strong><br/>
-<img src="https://github.com/user-attachments/assets/2cb907a0-c7ff-46f2-ac5a-298ba478c894" height="360"/><br/>
+<img src="https://github.com/user-attachments/assets/1664d263-c4d0-4fea-9a0f-394cf1347246" height="360"/><br/>
 </td>
 <td width="25%" align="center">
 <strong>뿌리기</strong><br/>
-<img src="https://github.com/user-attachments/assets/2bb84307-aaa0-4546-9abf-f798b5b72d13" height="360"/><br/>
+<img src="https://github.com/user-attachments/assets/1f24d7ee-025b-4476-8898-131f05916f16" height="360"/><br/>
+</td>
+<td width="25%" align="center">
+<strong>내 주변 매장</strong><br/>
+<img src="https://github.com/user-attachments/assets/b8a9c610-37a9-4cf7-ae3d-a88d99728b27" height="360"/><br/>
 </td>
 </tr>
 </table>
@@ -120,7 +120,7 @@
 <tr>
 <td width="33%" align="center">
 <strong>쉐어박스 생성</strong><br/>
-<img src="https://github.com/user-attachments/assets/3bbe9f18-5e85-4259-874a-805699cb48f8" height="360"/><br/>
+<img src="https://github.com/user-attachments/assets/afa93450-abf0-4877-b783-5b0a27e87837" height="360"/><br/>
 </td>
 <td width="33%" align="center">
 <strong>쉐어박스 설정</strong><br/>
